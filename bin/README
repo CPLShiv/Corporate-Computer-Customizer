@@ -1,0 +1,50 @@
+Competitor Number: 01
+
+User Information:
+To use this program, double-click the attached CorporateComputerCustomizer.jar file
+to open it. Click the "Add" button on the home screen to open the customization form.
+You must select from the presented options for CPUs, RAM, HDD, and case style. You
+are able to choose from a selection of optical drives and I/O devices to add.
+When you are done, click "Add" to add the computer order to the list. Check "Add More"
+before clicking "Add" to prevent the window from closing, and clear all buttons and boxes
+for another order. Click "Clear" to clear all buttons and boxes. Click "Close" to close
+the window. From the home menu, after adding a computer, click "Generate Invoice" to
+see the different computer orders you placed. They are organized in the order they were placed.
+
+Developer Information:
+The program was written in Java. The program is run by double-clicking the attached
+CorporateComputerCustomizer.jar file. The program only accepts clicks as input on the
+different buttons throughout the program. All errors are handled and instead show
+a pop-up dialog box whenever the user does something like forgetting to select one of the
+required computer parts when placing an order.
+
+Answer the following questions:
+
+1. What programming language did you use and why?
+I used Java, as I have over a year of formal education in the language, and it is my
+most comfortable language.
+
+2. Given that you had a short amount of time to design and develop this program answer the following
+questions:
+
+a. How could you improve your program's interface?
+I could improve my programs interface by finding a way to make the invoice window scrollable
+when placing enough orders to overflow.
+
+b. (Proficiency question)
+I believe my proficiency was improved by writing this program, as I had some mild struggles
+with some parts of the code but I got past them after figuring out the solution to whatever
+piece I was working on. This happened rarely, however, and I believe my proficiency, while
+improved afterwards, was on par to what this program required of me.
+
+c. How could you have improved your programs efficiency?
+The best way I could think to improve my program's efficiency is possibly to handle the information
+between classes better. Other than this, I cannot think of any way to improve my program's
+efficiency.
+
+3. If you didn't use object oriented programming, how could you have incorporated it into
+your program? If you did use object oriented programming, how could you have written
+this program without it?
+To write this program without object oriented programming, I would have had to use a completely
+different language, as Java requires an object oriented concept (a Class definition) to even
+load a text-based program.
